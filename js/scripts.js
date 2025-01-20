@@ -3,7 +3,7 @@ let a = 3;
 let b = 5;
 let c;
 
-const taskA = `let a = 3;
+let taskA = `let a = 3;
 let b = 5;
 let c;
 -------------
